@@ -5,8 +5,4 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
 ## 最近更新
-- [测试3](https://github.com/cumthxy/gitblog/issues/4)--2022-03-05
-- [测试2](https://github.com/cumthxy/gitblog/issues/3)--2022-03-05
-- [测试](https://github.com/cumthxy/gitblog/issues/2)--2022-03-05
-## 工作
-- [测试3](https://github.com/cumthxy/gitblog/issues/4)--2022-03-05
+- [周末生活简单记录](https://github.com/cumthxy/gitblog/issues/5)--2022-03-06

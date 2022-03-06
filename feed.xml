@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/cumthxy/gitblog</id><title>RSS feed of cumthxy's gitblog</title><updated>2022-03-05T05:22:39.325635+00:00</updated><author><name>yihong0618</name><email>zouzou0208@gmail.com</email></author><link href="https://github.com/cumthxy/gitblog"/><link href="https://raw.githubusercontent.com/cumthxy/gitblog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/cumthxy/gitblog/issues/4</id><title>测试3</title><updated>2022-03-05T05:22:39.533601+00:00</updated><content type="html"><![CDATA[<p>测试3</p>
-]]></content><link href="https://github.com/cumthxy/gitblog/issues/4" rel="alternate"/><category term="工作"/><published>2022-03-05T05:20:25+00:00</published></entry><entry><id>https://github.com/cumthxy/gitblog/issues/3</id><title>测试2</title><updated>2022-03-05T05:22:39.639921+00:00</updated><content type="html"><![CDATA[<p>测试2</p>
-]]></content><link href="https://github.com/cumthxy/gitblog/issues/3" rel="alternate"/><published>2022-03-05T05:16:53+00:00</published></entry><entry><id>https://github.com/cumthxy/gitblog/issues/2</id><title>测试</title><updated>2022-03-05T05:22:39.737402+00:00</updated><content type="html"><![CDATA[<p>测试</p>
-]]></content><link href="https://github.com/cumthxy/gitblog/issues/2" rel="alternate"/><published>2022-03-05T05:10:27+00:00</published></entry></feed>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/cumthxy/gitblog</id><title>RSS feed of cumthxy's gitblog</title><updated>2022-03-06T02:36:45.745033+00:00</updated><author><name>yihong0618</name><email>zouzou0208@gmail.com</email></author><link href="https://github.com/cumthxy/gitblog"/><link href="https://raw.githubusercontent.com/cumthxy/gitblog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/cumthxy/gitblog/issues/5</id><title>周末生活简单记录</title><updated>2022-03-06T02:36:45.910752+00:00</updated><content type="html"><![CDATA[<h3>1. 骑行</h3>
+<p>天气转暖了，也开始骑行了。翻了翻骑行记录，上次骑行还是去年9月份，那时候还在石景山。一直去骑行妙峰山。想了想自己为什么9月份之后就不骑行了，应该是那时候就开始找工作了。自己实力比较差，运气也比较差。找工作四处碰壁。看着同学们都去大厂奋斗了。我是自愧不如。
+<img src="https://user-images.githubusercontent.com/22782047/156906551-6856c409-35bf-423c-96c2-f350a0a5c2a5.jpg" alt="621646531865_ pic" /></p>
+<p>这周六骑行了 十三陵水库，下午4个小时刚刚好。风景还算可以，但是水库是封闭起来的，周围的虫子也非常多。
+<img src="https://user-images.githubusercontent.com/22782047/156906644-0b5983c1-28ab-4213-a6be-fec90b88a407.jpg" alt="661646531895_ pic" /></p>
+<h3>2 聚餐</h3>
+<p>有个同学要去上海了。邀请班里在北京的同学们都聚一下。突然想起来，自己之前研究生同学，本科同学在北京的也很多。
+只是自己刻意没有联系他们，因为自己过的很差，确实跟之前的同学不在一个层次了。5年都过去了。
+<img src="https://user-images.githubusercontent.com/22782047/156906587-41467318-f3de-4f97-9ec7-6e8b12c370ba.jpg" alt="631646531870_ pic" /></p>
+<p>去上海的同学之前在北京也啥样不会，但是在上海还是找到了算法的工作，据说22k*15。有的时候不得不相信，运气很重要。自己哔哔赖赖半天。啥也不会。</p>
+<h3>5. 周六一些感想</h3>
+<p>大学里之前一直联系的同学，有次我问他文献的问题，突然就不回我了。后来我想想也是，都6-7年了。我这么差，还回复我有个吊用？</p>
+<p>其实想想之前的自己种种选择。很是失败。</p>
+]]></content><link href="https://github.com/cumthxy/gitblog/issues/5" rel="alternate"/><published>2022-03-06T02:34:00+00:00</published></entry></feed>
